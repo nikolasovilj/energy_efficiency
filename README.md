@@ -1,6 +1,6 @@
 # energy_efficiency
 
-Decision Tree performed the best <br>
+Decision tree performed the best <br>
 Train accuracy: 0.98 <br>
 Test accuracy: 0.99 <br>
 
