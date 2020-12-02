@@ -1,5 +1,9 @@
 # energy_efficiency
 
+Decision Tree performed the best
+Train accuracy: 0.98
+Test accuracy: 0.99
+
 Make sure you have Flask and numpy installed:
 
 ```
