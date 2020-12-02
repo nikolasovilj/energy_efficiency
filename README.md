@@ -12,7 +12,7 @@ Run Flask app:
 python app.py
 ```
 
-Use POST method to send data in the following form:
+Use POST method to send data as JSON:
 
 ```
 {
