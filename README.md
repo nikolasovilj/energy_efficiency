@@ -1,9 +1,9 @@
 # energy_efficiency
 
-Make sure you have Flask and numpy installed:
+Make sure you have Flask and sklearn installed:
 
 ```
-pip install Flask numpy
+pip install Flask sklearn
 ```
 
 Run Flask app:
